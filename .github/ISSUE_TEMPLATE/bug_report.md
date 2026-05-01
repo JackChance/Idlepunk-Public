@@ -18,4 +18,4 @@ assignees: ''
 2. 
 
 **Game version**
-<!-- Found in the description of the Itch.io page or folder name if downloaded -->
+<!-- Found in the Meta > Info tab, bottom of the opening screen or in the description of the Itch.io page -->
