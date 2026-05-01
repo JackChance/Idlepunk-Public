@@ -1,7 +1,10 @@
 ---
 name: Bug Report
 about: Something is broken or behaving unexpectedly
+title: ''
 labels: bug
+assignees: ''
+
 ---
 
 **What happened?**
